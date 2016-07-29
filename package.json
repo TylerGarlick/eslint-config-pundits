@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-pundits",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://TylerGarlick@github.com/TylerGarlick/eslint-config-pundits.git"
+  },
+  "author": "Tyler Garlick <tjgarlick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TylerGarlick/eslint-config-pundits/issues"
+  },
+  "homepage": "https://github.com/TylerGarlick/eslint-config-pundits#readme"
+}
